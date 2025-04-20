@@ -1,0 +1,51 @@
+CustomerID,CustomerName,ContactEmail,PhoneNumber,Address,City,State,PostalCode,Country
+1,John Doe,john.doe@example.com,123-456-7890,123 Elm St,Springfield,IL,62701,USA
+2,Jane Smith,jane.smith@example.com,234-567-8901,456 Oak St,Metropolis,NY,10001,USA
+3,Emily Johnson,emily.johnson@example.com,345-678-9012,789 Pine St,Smalltown,CA,90210,USA
+4,Michael Brown,michael.brown@example.com,456-789-0123,101 Maple St,Bigcity,TX,73301,USA
+5,Amanda Davis,amanda.davis@example.com,567-890-1234,202 Birch St,Greenfield,WI,53201,USA
+6,Daniel Wilson,daniel.wilson@example.com,678-901-2345,303 Cedar St,Oakwood,FL,33101,USA
+7,Sarah Miller,sarah.miller@example.com,789-012-3456,404 Willow St,Beachside,CA,92001,USA
+8,James Martinez,james.martinez@example.com,890-123-4567,505 Cherry St,Highland,CO,80001,USA
+9,Lisa Garcia,lisa.garcia@example.com,901-234-5678,606 Walnut St,Valleyview,AZ,85001,USA
+10,David Anderson,david.anderson@example.com,012-345-6789,707 Poplar St,Sunset,CA,90001,USA
+11,Maria Thompson,maria.thompson@example.com,123-456-7891,808 Spruce St,Lakeside,OH,44101,USA
+12,Robert White,robert.white@example.com,234-567-8902,909 Fir St,Mountainview,UT,84101,USA
+13,Jessica Harris,jessica.harris@example.com,345-678-9013,1010 Pine St,Greenwood,MI,48201,USA
+14,William Lewis,william.lewis@example.com,456-789-0124,1111 Elm St,Woodland,OR,97201,USA
+15,Laura Clark,laura.clark@example.com,567-890-1235,1212 Oak St,Riverdale,GA,30301,USA
+16,Christopher Lee,christopher.lee@example.com,678-901-2346,1313 Maple St,Southfield,VA,22001,USA
+17,Ashley Walker,ashley.walker@example.com,789-012-3457,1414 Birch St,Clearwater,FL,33701,USA
+18,Andrew Hall,andrew.hall@example.com,890-123-4568,1515 Cedar St,Knoxville,TN,37901,USA
+19,Stephanie Allen,stephanie.allen@example.com,901-234-5679,1616 Willow St,Brentwood,TX,76101,USA
+20,Joshua Young,joshua.young@example.com,012-345-6780,1717 Cherry St,Midland,OH,45201,USA
+21,Rebecca King,rebecca.king@example.com,123-456-7892,1818 Walnut St,Columbus,OH,43201,USA
+22,Matthew Scott,matthew.scott@example.com,234-567-8903,1919 Poplar St,Jackson,MS,39201,USA
+23,Olivia Wright,olivia.wright@example.com,345-678-9014,2020 Spruce St,Birmingham,AL,35201,USA
+24,James Harris,james.harris@example.com,456-789-0125,2121 Fir St,Tulsa,OK,74101,USA
+25,Emily Lewis,emily.lewis@example.com,567-890-1236,2222 Pine St,Little Rock,AR,72201,USA
+26,Michael Walker,michael.walker@example.com,678-901-2347,2323 Elm St,Shreveport,LA,71101,USA
+27,Emma Scott,emma.scott@example.com,789-012-3458,2424 Oak St,Grand Rapids,MI,49501,USA
+28,Daniel Moore,daniel.moore@example.com,890-123-4569,2525 Maple St,Des Moines,IA,50301,USA
+29,Ava Wilson,ava.wilson@example.com,901-234-5670,2626 Birch St,Springfield,MO,65801,USA
+30,William Young,william.young@example.com,012-345-6781,2727 Cedar St,Lexington,KY,40501,USA
+31,Charlotte Adams,charlotte.adams@example.com,123-456-7893,2828 Willow St,Augusta,GA,30901,USA
+32,Alexander Brown,alexander.brown@example.com,234-567-8904,2929 Cherry St,Huntsville,AL,35801,USA
+33,Isabella Johnson,isabella.johnson@example.com,345-678-9015,3030 Walnut St,Mobile,AL,36601,USA
+34,James Davis,james.davis@example.com,456-789-0126,3131 Poplar St,Charleston,SC,29401,USA
+35,Mia Miller,mia.miller@example.com,567-890-1237,3232 Spruce St,Greenwood,IN,46143,USA
+36,Matthew Rodriguez,matthew.rodriguez@example.com,678-901-2348,3333 Fir St,Corpus Christi,TX,78401,USA
+37,Sophia Martinez,sophia.martinez@example.com,789-012-3459,3434 Pine St,Anchorage,AK,99501,USA
+38,David Anderson,david.anderson@example.com,890-123-4560,3535 Elm St,Kansas City,MO,64101,USA
+39,Abigail Thompson,abigail.thompson@example.com,901-234-5671,3636 Oak St,Akron,OH,44301,USA
+40,Christopher Lewis,christopher.lewis@example.com,012-345-6782,3737 Maple St,Frederick,MD,21701,USA
+41,Harper Hill,harper.hill@example.com,123-456-7894,3838 Birch St,Baton Rouge,LA,70801,USA
+42,Ethan King,ethan.king@example.com,234-567-8905,3939 Cedar St,Little Rock,AR,72201,USA
+43,Ella Scott,ella.scott@example.com,345-678-9016,4040 Willow St,Billings,MT,59101,USA
+44,Nathan Wright,nathan.wright@example.com,456-789-0127,4141 Cherry St,Chattanooga,TN,37401,USA
+45,Lily Adams,lily.adams@example.com,567-890-1238,4242 Walnut St,Huntsville,AL,35801,USA
+46,Aiden Clark,aiden.clark@example.com,678-901-2349,4343 Poplar St,Evansville,IN,47701,USA
+47,Madison Carter,madison.carter@example.com,789-012-3460,4444 Spruce St,El Paso,TX,79901,USA
+48,Samuel Murphy,samuel.murphy@example.com,890-123-4561,4545 Fir St,Columbus,OH,43201,USA
+49,Chloe Nelson,chloe.nelson@example.com,901-234-5672,4646 Pine St,Peoria,IL,61601,USA
+50,Jack Moore,jack.moore@example.com,012-345-6783,4747 Elm St,Springfield,MO,65801,USA

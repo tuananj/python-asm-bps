@@ -1,0 +1,51 @@
+SupplierID,SupplierName,ContactName,ContactEmail,ContactPhone,Address,City,State,ZipCode,Country
+1,ABC Supplies,John Smith,john.smith@abcsupplies.com,555-1234,123 Elm St,Springfield,IL,62701,USA
+2,Global Electronics,Susan Johnson,susan.johnson@globalelectronics.com,555-5678,456 Oak St,Springfield,IL,62702,USA
+3,Tech Innovators,Michael Brown,michael.brown@techinnovators.com,555-8765,789 Pine St,Springfield,IL,62703,USA
+4,Home Solutions,Emily Davis,emily.davis@homesolutions.com,555-4321,101 Maple St,Springfield,IL,62704,USA
+5,Quality Goods,James Wilson,james.wilson@qualitygoods.com,555-3456,202 Birch St,Springfield,IL,62705,USA
+6,ElectroTech,Olivia Moore,olivia.moore@electrotech.com,555-6543,303 Cedar St,Springfield,IL,62706,USA
+7,Green Products,David Miller,david.miller@greenproducts.com,555-7890,404 Walnut St,Springfield,IL,62707,USA
+8,Future Tech,Isabella Martinez,isabella.martinez@futuretech.com,555-0987,505 Chestnut St,Springfield,IL,62708,USA
+9,Smart Solutions,Daniel Anderson,daniel.anderson@smartsolutions.com,555-2345,606 Willow St,Springfield,IL,62709,USA
+10,Pro Supplies,Charlotte White,charlotte.white@prosuppiles.com,555-6789,707 Maple St,Springfield,IL,62710,USA
+11,TechGear,Lucas Scott,lucas.scott@techgear.com,555-3457,808 Elm St,Springfield,IL,62711,USA
+12,Innovate Electronics,Amelia Harris,amelia.harris@innovateelectronics.com,555-2346,909 Oak St,Springfield,IL,62712,USA
+13,Supply Chain Co.,Ethan Clark,ethan.clark@supplychainco.com,555-9876,101 Pine St,Springfield,IL,62713,USA
+14,GreenTech Solutions,Harper Lewis,harper.lewis@greentechsolutions.com,555-8764,202 Cedar St,Springfield,IL,62714,USA
+15,Essential Goods,Ava Walker,ava.walker@essentialgoods.com,555-3458,303 Birch St,Springfield,IL,62715,USA
+16,Innovative Home Supplies,Mason Allen,mason.allen@innovativehomesupplies.com,555-6544,404 Walnut St,Springfield,IL,62716,USA
+17,HighTech Partners,Ellie King,ellie.king@hightechpartners.com,555-7891,505 Maple St,Springfield,IL,62717,USA
+18,Electronic World,Noah Wright,noah.wright@electronicworld.com,555-0988,606 Elm St,Springfield,IL,62718,USA
+19,Precision Products,Grace Young,grace.young@precisionproducts.com,555-2347,707 Oak St,Springfield,IL,62719,USA
+20,SmartTech Inc.,Sebastian Adams,sebastian.adams@smarttechinc.com,555-6780,808 Pine St,Springfield,IL,62720,USA
+21,Tech Innovate,Aria Nelson,aria.nelson@techinnovate.com,555-3459,909 Cedar St,Springfield,IL,62721,USA
+22,Prime Suppliers,Mia Carter,mia.carter@primesuppliers.com,555-6545,101 Walnut St,Springfield,IL,62722,USA
+23,Home Electronics,Jacob Mitchell,jacob.mitchell@homeelectronics.com,555-9877,202 Maple St,Springfield,IL,62723,USA
+24,NextGen Tech,Lily Perez,lily.perez@nextgentech.com,555-8765,303 Elm St,Springfield,IL,62724,USA
+25,Quality Electronics,Leo Roberts,leo.roberts@qualityelectronics.com,555-7892,404 Oak St,Springfield,IL,62725,USA
+26,ProTech Solutions,Emily Walker,emily.walker@protechsolutions.com,555-0989,505 Pine St,Springfield,IL,62726,USA
+27,Essential Tech,Oscar Rivera,oscar.rivera@essentialtech.com,555-2348,606 Cedar St,Springfield,IL,62727,USA
+28,Green Innovations,Chloe Morris,chloe.morris@greeninnovations.com,555-3451,707 Walnut St,Springfield,IL,62728,USA
+29,Digital Solutions,Henry Cooper,henry.cooper@digitalsolutions.com,555-6546,808 Maple St,Springfield,IL,62729,USA
+30,NextGen Innovations,Avery Morgan,avery.morgan@nextgeninnovations.com,555-7893,909 Elm St,Springfield,IL,62730,USA
+31,SmartGoods,Jack Bell,jack.bell@smartgoods.com,555-0980,101 Oak St,Springfield,IL,62731,USA
+32,Tech Solutions,Audrey Murphy,audrey.murphy@techsolutions.com,555-2349,202 Pine St,Springfield,IL,62732,USA
+33,Electro Innovations,Eli James,eli.james@electroinnovations.com,555-6781,303 Cedar St,Springfield,IL,62733,USA
+34,Green Electronics,Zoey Lee,zoey.lee@greenelectronics.com,555-3450,404 Walnut St,Springfield,IL,62734,USA
+35,Digital Tech Group,Milo Young,milo.young@digitaltechgroup.com,555-6547,505 Maple St,Springfield,IL,62735,USA
+36,Pro Tech Innovations,Sofia Thompson,sofia.thompson@protechinnovations.com,555-7894,606 Elm St,Springfield,IL,62736,USA
+37,Tech Trends,Liam Walker,liam.walker@techtrends.com,555-0981,707 Oak St,Springfield,IL,62737,USA
+38,Future Innovations,Isabella Brown,isabella.brown@futureinnovations.com,555-2340,808 Pine St,Springfield,IL,62738,USA
+39,Smart Systems,Oliver White,oliver.white@smartsystems.com,555-6782,909 Cedar St,Springfield,IL,62739,USA
+40,Advanced Tech Solutions,Emma Harris,emma.harris@advancedtechsolutions.com,555-3452,101 Walnut St,Springfield,IL,62740,USA
+41,Tech World,James Young,james.young@techworld.com,555-6548,202 Maple St,Springfield,IL,62741,USA
+42,Home Tech Solutions,Charlotte Scott,charlotte.scott@hometechsolutions.com,555-7895,303 Elm St,Springfield,IL,62742,USA
+43,Innovative Gadgets,Mason Harris,mason.harris@innovativegadgets.com,555-0982,404 Oak St,Springfield,IL,62743,USA
+44,NextGen Electronics,Amelia Thompson,amelia.thompson@nextgenelectronics.com,555-2341,505 Pine St,Springfield,IL,62744,USA
+45,SmartTech Supplies,Elijah Allen,elijah.allen@smarttechsupplies.com,555-6783,606 Cedar St,Springfield,IL,62745,USA
+46,Quality Innovations,Harper Martin,harper.martin@qualityinnovations.com,555-3453,707 Walnut St,Springfield,IL,62746,USA
+47,Pro Electronics,Jack Martinez,jack.martinez@proelectronics.com,555-6549,808 Maple St,Springfield,IL,62747,USA
+48,Digital Tech Solutions,Grace King,grace.king@digitaltechsolutions.com,555-7896,909 Elm St,Springfield,IL,62748,USA
+49,Tech Innovations Co.,Aiden Walker,aiden.walker@techinnovationsco.com,555-0983,101 Oak St,Springfield,IL,62749,USA
+50,Advanced Electronics,Chloe Anderson,chloe.anderson@advancedelectronics.com,555-2342,202 Pine St,Springfield,IL,62750,USA

@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price,StockQuantity,SupplierID
+101,Smartphone X,Electronics,499.99,150,1
+102,4K TV,Electronics,999.99,75,2
+103,Laptop Pro,Computers,1299.99,50,3
+104,Wireless Headphones,Accessories,89.99,200,4
+105,Smartwatch Series 5,Accessories,249.99,120,5
+106,Tablet Pro,Electronics,599.99,90,1
+107,Digital Camera,Electronics,899.99,60,2
+108,Bluetooth Speaker,Accessories,49.99,180,6
+109,Home Security System,Electronics,199.99,40,3
+110,Electric Toothbrush,Healthcare,79.99,160,7
+111,Smartphone Pro,Electronics,599.99,140,1
+112,LED Monitor,Computers,299.99,80,8
+113,Gaming Console,Electronics,399.99,70,2
+114,Noise-Cancelling Headphones,Accessories,149.99,110,4
+115,Fitness Tracker,Accessories,129.99,140,5
+116,Smart TV,Electronics,799.99,85,1
+117,Digital Camcorder,Electronics,499.99,50,2
+118,Portable Charger,Accessories,29.99,220,6
+119,Robotic Vacuum,Home Appliances,349.99,30,9
+120,Electric Kettle,Home Appliances,59.99,150,10
+121,Smartphone Mini,Electronics,399.99,160,1
+122,Ultrawide Monitor,Computers,399.99,70,8
+123,VR Headset,Electronics,299.99,55,2
+124,Wireless Mouse,Accessories,19.99,250,4
+125,Keyboard,Accessories,49.99,180,5
+126,Home Theater System,Electronics,499.99,45,1
+127,Smart Doorbell,Electronics,149.99,95,3
+128,Outdoor Camera,Electronics,199.99,55,2
+129,Electric Blanket,Home Appliances,89.99,120,10
+130,Air Purifier,Home Appliances,149.99,70,9
+131,Smartphone Ultra,Electronics,799.99,130,1
+132,High-Resolution Monitor,Computers,499.99,40,8
+133,Portable Air Conditioner,Home Appliances,349.99,25,10
+134,Wireless Earbuds,Accessories,99.99,200,4
+135,Smart Home Hub,Electronics,129.99,110,3
+136,Electric Grill,Home Appliances,199.99,50,9
+137,Desk Lamp,Home Furniture,49.99,140,11
+138,Office Chair,Home Furniture,149.99,80,12
+139,Convertible Laptop,Computers,1399.99,40,8
+140,Smart Thermostat,Home Appliances,249.99,35,9
+141,4K Action Camera,Electronics,299.99,60,2
+142,Portable Battery Pack,Accessories,39.99,210,6
+143,Smart Plugs,Home Appliances,29.99,180,10
+144,Wireless Router,Computers,89.99,120,8
+145,Electric Fan,Home Appliances,59.99,150,10
+146,Smart Fridge,Home Appliances,1199.99,20,9
+147,Electric Oven,Home Appliances,799.99,25,10
+148,Portable Projector,Electronics,399.99,45,2
+149,Home Humidifier,Home Appliances,99.99,60,10
+150,Smart Speaker,Electronics,129.99,130,6
